@@ -5,6 +5,7 @@ class Test {
 
     private static void printTest() {
         System.out.println("gitflow test");
+        System.out.println("important hotfix");
     }
 
     private static void printSquash() {
