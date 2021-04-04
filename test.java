@@ -1,6 +1,7 @@
 class Test {
     public static void main(String[] args) {
         printTest();
+        printSquash();
     }
 
     private static void printTest() {
